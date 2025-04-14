@@ -1,13 +1,13 @@
 {
-    "botToken": "MTM2MTI1OTc2MzY5MzkxMjEyNA.GOz9Ak.3xJZRa4dB4PJZJIg90_etWkGW26P8PgCEApU3E",
-    "clientId": "1361259763693912124",
-    "clientSecret": "di6AFnx7H5wbnN3slYI4LfPV3EdlCp32",
+    "botToken": "",
+    "clientId": "",
+    "clientSecret": "",
     "ownerId": "1079692279524102264",
     "domain": "https://restore-bot.vercel.app",
     "DBFolderPath": "./DB",
     "DBPath": "./db.db",
     "port": 3000,
-    "ownerLogWebhook": "https://discord.com/api/webhooks/1333346549882818613/7O-5wiNHPgEZRyiGmlbwQgu88dJRsl4Q8tP9V4u2sQAe7tO42mlUhT3fO9Xwf5oOAGRJ",
+    "ownerLogWebhook": "",
     "hCaptchaSiteKey": "hCaptcha사이트키",
     "hCaptchaSecretKey": "hCaptcha시크릿키",
     "vpnApiKey": "VPN확인API키"
